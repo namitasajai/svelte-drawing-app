@@ -17,7 +17,8 @@ cd svelte-app
 
 ## Preview
 View a preview of the drawing app in action: 
-![Preview]('public/Preview.png')
+![image](https://github.com/namitasajai/svelte-drawing-app/assets/122184153/1b9d2e26-aa1a-4a31-bcba-2e2b469b2288)
+
 
 ## Get started
 
