@@ -17,7 +17,7 @@ cd svelte-app
 
 ## Preview
 View a preview of the drawing app in action: 
-![Preview]('/Preview.png')
+![Preview]('./public/Preview.png')
 
 ## Get started
 
